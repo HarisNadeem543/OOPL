@@ -1,0 +1,7 @@
+C:\Users\haris\Desktop\semester 2\OOP\week 2\TASKS\bin\Debug\TASKS.exe.config
+C:\Users\haris\Desktop\semester 2\OOP\week 2\TASKS\bin\Debug\TASKS.exe
+C:\Users\haris\Desktop\semester 2\OOP\week 2\TASKS\bin\Debug\TASKS.pdb
+C:\Users\haris\Desktop\semester 2\OOP\week 2\TASKS\obj\Debug\TASKS.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\semester 2\OOP\week 2\TASKS\obj\Debug\TASKS.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\semester 2\OOP\week 2\TASKS\obj\Debug\TASKS.exe
+C:\Users\haris\Desktop\semester 2\OOP\week 2\TASKS\obj\Debug\TASKS.pdb

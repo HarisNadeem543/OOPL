@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haris\\Desktop\\semester 2\\OOP\\week 2\\TASKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E8EB6-04E7-4465-9AD7-738E0FCEE94B}|TASKS.csproj|c:\\users\\haris\\desktop\\semester 2\\oop\\week 2\\tasks\\c2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E8EB6-04E7-4465-9AD7-738E0FCEE94B}|TASKS.csproj|solutionrelative:c2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B2E8EB6-04E7-4465-9AD7-738E0FCEE94B}|TASKS.csproj|C:\\Users\\haris\\Desktop\\semester 2\\OOP\\week 2\\TASKS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B2E8EB6-04E7-4465-9AD7-738E0FCEE94B}|TASKS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C2.cs",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\semester 2\\OOP\\week 2\\TASKS\\C2.cs",
+              "RelativeDocumentMoniker": "C2.cs",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\semester 2\\OOP\\week 2\\TASKS\\C2.cs*",
+              "RelativeToolTip": "C2.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwGQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:53:09.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haris\\Desktop\\semester 2\\OOP\\week 2\\TASKS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\haris\\Desktop\\semester 2\\OOP\\week 2\\TASKS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:03:10.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
