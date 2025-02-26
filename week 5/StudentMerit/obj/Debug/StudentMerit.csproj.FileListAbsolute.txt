@@ -1,0 +1,7 @@
+C:\Users\haris\Desktop\semester 2\OOP\week 5\StudentMerit\obj\Debug\StudentMerit.csproj.AssemblyReference.cache
+C:\Users\haris\Desktop\semester 2\OOP\week 5\StudentMerit\obj\Debug\StudentMerit.csproj.CoreCompileInputs.cache
+C:\Users\haris\Desktop\semester 2\OOP\week 5\StudentMerit\bin\Debug\StudentMerit.exe.config
+C:\Users\haris\Desktop\semester 2\OOP\week 5\StudentMerit\bin\Debug\StudentMerit.exe
+C:\Users\haris\Desktop\semester 2\OOP\week 5\StudentMerit\bin\Debug\StudentMerit.pdb
+C:\Users\haris\Desktop\semester 2\OOP\week 5\StudentMerit\obj\Debug\StudentMerit.exe
+C:\Users\haris\Desktop\semester 2\OOP\week 5\StudentMerit\obj\Debug\StudentMerit.pdb
